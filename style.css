@@ -1,0 +1,77 @@
+body{
+    background: url(https://vsthemes.org/uploads/posts/2017-10/1582033419_dark-anime-girl_vsthemes_ru-5.webp);
+}
+
+h1{
+    color: white;
+    margin-left: 120px;
+
+}
+
+img{
+    width: 450px;
+    margin: 40px;
+}
+
+.krug{
+    border: 1px white solid;
+    width: 70px;
+    height: 70px;
+    margin-left: 230px;
+    border-radius: 100px;
+    background-color: white;
+}
+
+.palka1{
+    border: 4px black solid;
+    width: 0;
+    margin-top: 15px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.palka2{
+    border: 4px black solid;
+    width: 0;
+    margin-top: 15px;
+    height: 30px;
+    margin-left: 15px;
+}
+
+.palki{
+    display: flex;
+}
+
+.palka3{
+    border: 5px green solid;
+    width: 100px;
+}
+
+.palka4{
+    border: 1px rgb(255, 255, 255) solid;
+    width: 400px;
+}
+
+.palki2{
+    display: flex;
+}
+
+h3{
+    color: white;
+}
+
+.otc{
+    border: 1px black solid;
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2{
+    color: rgb(63, 17, 17);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
